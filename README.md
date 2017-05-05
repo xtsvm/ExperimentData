@@ -1,2 +1,2 @@
 # ExperimentData
-The Experiment Data sets for research
+This is the data set for the Supplementary material of the CancerSubtypes Package research paper.
